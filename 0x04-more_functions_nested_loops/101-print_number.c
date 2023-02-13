@@ -1,4 +1,9 @@
-#include "holberton.h"
+/*
+ * File: 101-print_number.c
+ * Auth: Project 101-print
+ */
+
+#include "main.h"
 
 /**
  * print_number - Prints an integer.
