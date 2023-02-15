@@ -1,12 +1,11 @@
-/*
- * File: 2-print_alphabet_x10.c
- * Auth: wise one
- */
-
 	#include "main.h"
 
 	/**
 	 * print_alphabet_x10 -> prints 10 times the alphabet, in lowercase
+	 *
+	 * Print - alphabet in lowercase 10 times
+	 *
+	 * Return :Always 0
 	 */
 
 	void print_alphabet_x10(void)
