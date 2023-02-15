@@ -2,9 +2,6 @@
  * File: 2-print_alphabet_x10.c
  * Auth: wise one
  */
-	
-
-
 
 	#include "main.h"
 
